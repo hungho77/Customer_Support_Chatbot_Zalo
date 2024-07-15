@@ -51,5 +51,5 @@ Network URL: http://172.29.123.180:8501
 ```
 
 ### Examples
-[Watch the demo video](assets/demo.mp4)
+[Download the demo video](assets/demo.mp4)
 
