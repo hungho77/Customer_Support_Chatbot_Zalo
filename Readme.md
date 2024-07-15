@@ -30,6 +30,9 @@ copy above environment variable into .env file and save
 ```bash
 cd src
 vi .env
+```
+then
+```bash
 cd ../
 ```
 
