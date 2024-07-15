@@ -47,7 +47,7 @@ streamlit run src/app.py
 ```bash
 open browser with url below
 Local URL: http://localhost:8501
-Network URL: http://172.29.123.180:8501
+Network URL: 
 ```
 
 ### Examples
