@@ -54,7 +54,7 @@ Network URL: http://172.29.123.180:8501
 <table class="center">
 <tr>
     <td width=100% style="border: none">
-        <video controls autoplay loop src="https://github.com/hungho77/Customer_Support_Chatbot_Zalo/assets/demo.mp4" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/hungho77/Customer_Support_Chatbot_Zalo/blob/main/assets/demo.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
